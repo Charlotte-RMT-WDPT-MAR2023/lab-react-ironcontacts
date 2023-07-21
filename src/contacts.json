@@ -1,5 +1,13 @@
 [
   {
+    "name": "Jennifer Lawrence",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/q0tf3XEo7wa8XglIznTC7WzZ9W3.jpg",
+    "popularity": 19.560912,
+    "id": "2abbdb9b-6034-452c-871f-2913fd42fbd0",
+    "wonOscar": true,
+    "wonEmmy": false
+  },
+   {
     "name": "Idris Elba",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/d9NkfCwczP0TjgrjpF94jF67SK8.jpg",
     "popularity": 11.622713,
@@ -8,10 +16,10 @@
     "wonEmmy": false
   },
   {
-    "name": "Johnny Depp",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/kbWValANhZI8rbWZXximXuMN4UN.jpg",
-    "popularity": 15.656534,
-    "id": "7dad00f7-3949-477d-a7e2-1467fd2cfc06",
+    "name": "Rose Byrne",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/laJdQNmsuR2iblYUggEqr49LvwJ.jpg",
+    "popularity": 13.094365,
+    "id": "81ab13e0-89c7-468d-acf9-5ab8c17f2d66",
     "wonOscar": false,
     "wonEmmy": false
   },
@@ -68,6 +76,14 @@
     "pictureUrl": "https://image.tmdb.org/t/p/w500/tFkbad0JoWvYc6XYBITv6EfeLwR.jpg",
     "popularity": 9.209649,
     "id": "48094f0e-1d16-4825-aae6-4888c065c6d7",
+    "wonOscar": false,
+    "wonEmmy": false
+  },
+  {
+    "name": "Johnny Depp",
+    "pictureUrl": "https://image.tmdb.org/t/p/w500/kbWValANhZI8rbWZXximXuMN4UN.jpg",
+    "popularity": 15.656534,
+    "id": "7dad00f7-3949-477d-a7e2-1467fd2cfc06",
     "wonOscar": false,
     "wonEmmy": false
   },
@@ -160,14 +176,7 @@
     "wonEmmy": false
   },
 
-  {
-    "name": "Jennifer Lawrence",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/q0tf3XEo7wa8XglIznTC7WzZ9W3.jpg",
-    "popularity": 19.560912,
-    "id": "2abbdb9b-6034-452c-871f-2913fd42fbd0",
-    "wonOscar": true,
-    "wonEmmy": false
-  },
+  
   {
     "name": "Arnold Schwarzenegger",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/sOkCXc9xuSr6v7mdAq9LwEBje68.jpg",
@@ -384,14 +393,7 @@
     "wonOscar": false,
     "wonEmmy": false
   },
-  {
-    "name": "Rose Byrne",
-    "pictureUrl": "https://image.tmdb.org/t/p/w500/laJdQNmsuR2iblYUggEqr49LvwJ.jpg",
-    "popularity": 13.094365,
-    "id": "81ab13e0-89c7-468d-acf9-5ab8c17f2d66",
-    "wonOscar": false,
-    "wonEmmy": false
-  },
+
   {
     "name": "Keanu Reeves",
     "pictureUrl": "https://image.tmdb.org/t/p/w500/1wpzvf5PaQ1AZjl5rPNjWQobLLP.jpg",
